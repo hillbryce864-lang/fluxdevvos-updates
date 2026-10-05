@@ -1,0 +1,21 @@
+{
+  "note": {
+    "format": 1,
+    "sequence": 5,
+    "version": "0.1.0-personal.5",
+    "package_id": "0.1.0-personal.5-8f06a2f",
+    "installer": {
+      "name": "FluxDevvOS-Setup-0.1.0-personal.5.exe",
+      "size": 45484676,
+      "sha256": "f1f4e578309a7482a23729c18ef344e282704e52399b20e7a24402ab3041753c"
+    },
+    "notes": [
+      "Eight independent job tabs save chats, drafts, skills and workspace preferences.",
+      "Research keeps real source trails; generated skills persist and support recovery and deletion.",
+      "Live browser and selected Studio/Blender viewing, role tools and safer update recovery.",
+      "Personal data stays separate. This is an unsigned Windows beta; credential-dependent workflows still need live checks."
+    ],
+    "published_at": 1791173694.771
+  },
+  "signature": "3bdfef7173455d01c8f4a13760f385eb4a4b90e7b809fbb32f045a363ba00c38649ddf2ff8ad0b722952fb2e18b0928925941cc1ebafa59548e6aac12c19ef3c"
+}
