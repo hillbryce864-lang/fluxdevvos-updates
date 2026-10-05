@@ -1,21 +1,22 @@
 {
   "note": {
     "format": 1,
-    "sequence": 5,
-    "version": "0.1.0-personal.5",
-    "package_id": "0.1.0-personal.5-8f06a2f",
+    "sequence": 9,
+    "version": "0.1.0-personal.9",
+    "package_id": "0.1.0-personal.9-8fef986",
     "installer": {
-      "name": "FluxDevvOS-Setup-0.1.0-personal.5.exe",
-      "size": 45484676,
-      "sha256": "f1f4e578309a7482a23729c18ef344e282704e52399b20e7a24402ab3041753c"
+      "name": "FluxDevvOS-Setup-0.1.0-personal.9.exe",
+      "size": 45474020,
+      "sha256": "881cfc5e845dd7b25bfeba336763cf217321f37d98809d487e85ba56762bc663"
     },
     "notes": [
-      "Eight independent job tabs save chats, drafts, skills and workspace preferences.",
-      "Research keeps real source trails; generated skills persist and support recovery and deletion.",
-      "Live browser and selected Studio/Blender viewing, role tools and safer update recovery.",
-      "Personal data stays separate. This is an unsigned Windows beta; credential-dependent workflows still need live checks."
+      "Personal edition: create your own local profile; no owner approval, shared Wi-Fi or team server is required.",
+      "Includes the tested onboarding and Blender connection setup fixes plus the latest workspace audit.",
+      "Locking revokes temporary tool access; job-state recovery and project-file setup handle invalid or stale state safely.",
+      "Each person keeps their own Brain, projects and provider sign-ins. Use your own Claude Code or Codex account.",
+      "Unsigned Windows beta. Provider-dependent uploads, audio, Discord and playtests still require their own permissions and live checks."
     ],
-    "published_at": 1791173694.771
+    "published_at": 1791233326.017
   },
-  "signature": "3bdfef7173455d01c8f4a13760f385eb4a4b90e7b809fbb32f045a363ba00c38649ddf2ff8ad0b722952fb2e18b0928925941cc1ebafa59548e6aac12c19ef3c"
+  "signature": "738f7571da5f3a71fa8bf333898a1c2fd56873d355c571891668138117a8302c3d849994bce30724e86ad10e57c114eddc10c8be5393b7d442808b36d4f222da"
 }
